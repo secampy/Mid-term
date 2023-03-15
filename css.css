@@ -25,7 +25,6 @@ main {
     background: url(imd.html/dilje/shark.webp);
 }
 
-/* banner text */
 #image h1 {
     text-align: center;
     padding: 265px 0px 75px;
@@ -33,7 +32,6 @@ main {
     color: white;
     font-size: 50px;
 }
-/* menu list  */
 div#nav ul {
     list-style: none;
     display: inline-flex;
@@ -57,7 +55,6 @@ div#nav ul li:nth-child(2) {
     border-bottom: 0px;
 }
 
-/* layout */
 .flex {
     display: flex;
 }
@@ -85,20 +82,18 @@ div#content p {
     font-size: 17px;
 }
 
-
-/* footer */
 footer {
     padding: 10px;
     text-align: right;
 }
-/* facts area */
+
 .sec-section ul {
     padding-top: 1px;
     font-size: 17px;
     padding-left: 25px;
     padding-right: 25px;
 }
-/* form design */
+
 form {
     border: 1px solid;
     padding: 18px 14px;
